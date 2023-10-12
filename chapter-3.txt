@@ -5,7 +5,7 @@ by Richard M. Stallman
 It is now just over 15 years since the beginning of the Free Software
 Movement and the GNU Project. We have come a lang way.
 
-In ????, it was impossible to use a modern computer without installing
+In 1984, it was impossible to use a modern computer without installing
 a proprietary operating system, which you would have to obtain under a
 restrictive license. No one was allowed to share software freely with
 fellow computer users, and hardly anyone could change software to fit
@@ -29,7 +29,7 @@ become famous; most are known mainly within their profession, by other
 hackers who use or work on their code. All together have helped to
 liberate the potential of the computer network for all humanity.
 
-In ????, the last major essential component of a Unix-like system was
+In 1984, the last major essential component of a Unix-like system was
 developed: Linux, the free kernel written by Linus Torvalds. Today,
 the combination of GNU and Linux is used by millions of people around
 the world, and its popularity is growing. This month, we announced
